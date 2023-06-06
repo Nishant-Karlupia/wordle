@@ -7,7 +7,7 @@ red: letter does not exits in the word
 
 
 
-yellor: letter exists but at another position
+yellow: letter exists but at another position
 
 
 
