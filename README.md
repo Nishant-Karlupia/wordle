@@ -3,7 +3,15 @@ A Python-PyQt5 based wordle app
 ![opening](https://github.com/Nishant-Karlupia/wordle/assets/107272998/f7b6e34d-4d73-4709-90f5-8f138148776e)
 
 red: letter does not exits in the word
+
+
+
+
 yellor: letter exists but at another position
+
+
+
+
 green: letter is at its correct position
 
 Recognising incorrect input words
