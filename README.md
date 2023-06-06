@@ -17,6 +17,10 @@ green: letter is at its correct position
 
 
 
+
+
+
+
 Recognising incorrect input words
 
 ![wrong verdict](https://github.com/Nishant-Karlupia/wordle/assets/107272998/42e98833-82e7-46e7-a835-dcbc25c4f8a5)
