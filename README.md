@@ -17,7 +17,7 @@ green: letter is at its correct position
 
 
 
-
+after writing the word press enter to evaluate your guess
 
 
 
